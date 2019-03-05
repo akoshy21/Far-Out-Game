@@ -1,0 +1,25 @@
+fileFormatVersion: 2
+guid: ece9e320288024946b590171ac2bc3b7
+timeCreated: 1515080280
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - descriptionText: {instanceID: 0}
+  - crewmanPortrait: {instanceID: 0}
+  - buttonOneText: {instanceID: 0}
+  - buttonTwoText: {instanceID: 0}
+  - buttonOne: {instanceID: 0}
+  - buttonTwo: {instanceID: 0}
+  - pilotImage: {fileID: 21300000, guid: 3ee3052d07c4fe34b9000e00753400d6, type: 3}
+  - huskImage: {fileID: 21300000, guid: 9b39340503ba37b47811f62c852fe8ec, type: 3}
+  - psionImage: {fileID: 21300000, guid: 2fe349d5594d5e54ea8e718764a033b0, type: 3}
+  - scienceImage: {fileID: 21300000, guid: 435c3a55479f8c6449e53ca14cfa3f62, type: 3}
+  - commanderImage: {fileID: 21300000, guid: c55403e976bc1634984bcb5b97cb1538, type: 3}
+  - securityImage: {fileID: 21300000, guid: 6792984a2a586a3439abe05602fea974, type: 3}
+  - changeEvent: {fileID: 8300000, guid: 342059f555a1c524db8d4d0660949de0, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

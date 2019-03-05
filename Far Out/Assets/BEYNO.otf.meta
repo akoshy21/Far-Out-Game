@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 78b4b4ee486a9fb4f8c2b44091a2b6e2
+timeCreated: 1512800126
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: BEYNO
+  fontNames:
+  - BEYNO
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
